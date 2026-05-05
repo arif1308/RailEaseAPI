@@ -1,0 +1,6 @@
+@RailEaseAPI_HostAddress = http://localhost:5021
+
+GET {{RailEaseAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
